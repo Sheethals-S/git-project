@@ -7,6 +7,9 @@ namespace ConsoleApp16
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+             Console.WriteLine("git hub");
+             Console.WriteLine("from vs code");
+            
         }
     }
 }
